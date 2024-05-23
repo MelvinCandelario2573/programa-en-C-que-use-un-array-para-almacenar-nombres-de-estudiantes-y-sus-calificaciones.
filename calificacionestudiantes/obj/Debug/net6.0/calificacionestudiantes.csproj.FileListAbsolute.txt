@@ -1,0 +1,15 @@
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\bin\Debug\net6.0\calificacionestudiantes.exe
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\bin\Debug\net6.0\calificacionestudiantes.deps.json
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\bin\Debug\net6.0\calificacionestudiantes.runtimeconfig.json
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\bin\Debug\net6.0\calificacionestudiantes.dll
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\bin\Debug\net6.0\calificacionestudiantes.pdb
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\obj\Debug\net6.0\calificacionestudiantes.csproj.AssemblyReference.cache
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\obj\Debug\net6.0\calificacionestudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\obj\Debug\net6.0\calificacionestudiantes.AssemblyInfoInputs.cache
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\obj\Debug\net6.0\calificacionestudiantes.AssemblyInfo.cs
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\obj\Debug\net6.0\calificacionestudiantes.csproj.CoreCompileInputs.cache
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\obj\Debug\net6.0\calificacionestudiantes.dll
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\obj\Debug\net6.0\refint\calificacionestudiantes.dll
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\obj\Debug\net6.0\calificacionestudiantes.pdb
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\obj\Debug\net6.0\calificacionestudiantes.genruntimeconfig.cache
+C:\Users\melvi\source\repos\calificacionestudiantes\calificacionestudiantes\obj\Debug\net6.0\ref\calificacionestudiantes.dll
